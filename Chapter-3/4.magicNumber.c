@@ -22,7 +22,7 @@ int main(void)
     {
         printf("** Wrong, Too High**");
     }
-    else printf("Too Low\n");
+    else printf("Wrong, Too Low\n");
     
     return 0;
 }
